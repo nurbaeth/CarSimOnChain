@@ -11,7 +11,7 @@ No tokens. No rewards. Just pure car vibes... on-chain.
 
 - 🔑 Start & stop the engine  
 - 💨 Accelerate & brake (with speed limit)  
-- ⛽ Fuel system (you need to refuel!)  
+- ⛽ Fuel system (you need to refuel!)   
 - 📦 Each wallet has its own car  
 - 🔒 Fully on-chain logic, no frontend required  
 - 🛠️ Easy to expand into a multiplayer racing system  
